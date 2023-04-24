@@ -1,2 +1,2 @@
-# KoduYL
+# Veebirakenduste-alused
 Erinevad koolitööd
